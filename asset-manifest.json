@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/mayformation/static/css/main.16cd384c.css",
-    "main.js": "/mayformation/static/js/main.0ed525ee.js",
+    "main.css": "/mayformation/static/css/main.8b374001.css",
+    "main.js": "/mayformation/static/js/main.4ed16467.js",
+    "static/media/pexels-tuấn-kiệt-jr-1549974.jpg": "/mayformation/static/media/pexels-tuấn-kiệt-jr-1549974.5e08f163881362369631.jpg",
     "static/media/mayformation-no-text.svg": "/mayformation/static/media/mayformation-no-text.d20872877d6f7d699b107fc761c45fec.svg",
     "index.html": "/mayformation/index.html",
-    "main.16cd384c.css.map": "/mayformation/static/css/main.16cd384c.css.map",
-    "main.0ed525ee.js.map": "/mayformation/static/js/main.0ed525ee.js.map"
+    "main.8b374001.css.map": "/mayformation/static/css/main.8b374001.css.map",
+    "main.4ed16467.js.map": "/mayformation/static/js/main.4ed16467.js.map"
   },
   "entrypoints": [
-    "static/css/main.16cd384c.css",
-    "static/js/main.0ed525ee.js"
+    "static/css/main.8b374001.css",
+    "static/js/main.4ed16467.js"
   ]
 }
