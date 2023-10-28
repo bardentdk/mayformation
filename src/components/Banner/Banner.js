@@ -9,7 +9,7 @@ export default function Banner(){
                 <div className="flex justify-center mb-8">
                     <img src={LogoSansText} alt="May Logo" className="h-32 text-center"/>
                 </div>
-                <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-slate-100 md:text-5xl lg:text-6xl dark:text-white">MAY FORMATIONS</h1>
+                <h1 className="mb-4 text-3xl font-extrabold tracking-tight leading-none text-slate-100 md:text-5xl lg:text-6xl dark:text-white">MAY FORMATIONS</h1>
                 <p className="mb-8 text-lg font-normal text-slate-200 lg:text-xl sm:px-16 lg:px-48 dark:text-gray-400">Centre de formation dans le domaine de la petite enfance et la pratique de la pédagogie Montessori</p>
                 <div className="flex flex-col space-y-4 sm:flex-row sm:justify-center sm:space-y-0 sm:space-x-4">
                     <NavLink to="/" className="inline-flex justify-center items-center py-3 px-5 text-base font-medium text-center text-white rounded-lg border border-white hover:bg-pink-800 hover:border-pink-800 duration-300 focus:ring-4 focus:ring-blue-300 dark:focus:ring-blue-900">

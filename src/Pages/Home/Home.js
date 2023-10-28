@@ -2,7 +2,7 @@ import Banner from "../../components/Banner/Banner";
 
 export default function Home(){
     return(
-        <div className="mx-32 my-10">
+        <div className="md:mx-32 my-10">
             <div>
                 <Banner />
             </div>
