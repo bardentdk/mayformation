@@ -1,4 +1,5 @@
 import Banner from "../../components/Banner/Banner";
+import BannerImg from "../../images/pexels-tuấn-kiệt-jr-1549974.jpg";
 
 export default function Home(){
     return(
@@ -6,6 +7,20 @@ export default function Home(){
             <div>
                 <Banner />
             </div>
+            <section className="mt-20">
+                <div className="flex flex-col items-center mt-10 grid grid-cols-1 md:grid-cols-2 gap-10">
+                    <div>
+                        <h2 className="mb-5 text-2xl text-slate-700 uppercase font-extrabold md:text-6xl"><span className="text-transparent bg-clip-text bg-gradient-to-r to-pink-600 from-red-400">May formations :</span> Centre de formations à La Réunion</h2>
+                        <p className="text-justify">
+                            <span className="uppercase font-extrabold text-pink-300  ">May formations</span>, créé en Août 2023, s’est positionné sur le champ de la professionnalisation avec comme activités principales les formations liées à la Petite Enfance.
+                            Le positionnement de notre structure est articulé aujourd’hui autour de la « formation tout au long de la vie ».
+                        </p>
+                    </div>
+                    <div className="rounded-full">
+                        <img src={BannerImg} className=" aspect-video" alt="enfant autour d'une table" />
+                    </div>
+                </div>
+            </section>
             <div className="div">
                 <h2 className="font-extrabold text-2xl md:text-6xl text-blue-700 mt-10">Prochaines formations</h2>
                 <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">

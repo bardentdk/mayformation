@@ -4,7 +4,7 @@ import LogoSansText from "../../images/mayformation-no-text.svg"
 export default function Banner(){
     return(
         <>
-        <section className="rounded-lg text-white bg-gradient-to-r from-pink-400 via-pink-500 to-pink-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-pink-300 dark:focus:ring-pink-800 shadow-lg shadow-pink-500/50 dark:shadow-lg dark:shadow-pink-800/80 ">
+        <section className="rounded-lg text-white bg-gradient-to-r from-pink-400 to-pink-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-pink-300 dark:focus:ring-pink-800 shadow-lg shadow-pink-500/50 dark:shadow-lg dark:shadow-pink-800/80 ">
             <div className="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16">
                 <div className="flex justify-center mb-8">
                     <img src={LogoSansText} alt="May Logo" className="h-32 text-center"/>

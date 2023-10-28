@@ -9,7 +9,7 @@ import Contact from "./Pages/Contact/Contact";
 
 function App() {
   return (
-    <div className="App mx-auto">
+    <div className="App">
       <Router>
         <Navbar />
         <Routes>

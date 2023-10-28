@@ -1,5 +1,6 @@
 import { NavLink } from "react-router-dom";
 import Logo from "../../images/mayformation-no-text.svg";
+import SearchModal from "./SearchModal/SearchModal";
 export default function Navbar(){
     return(
         <>
@@ -32,11 +33,14 @@ export default function Navbar(){
                 <li>
                     <NavLink to="/contact" className="block py-2 pl-3 pr-4 text-slate-100 rounded hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-pink-700 md:p-0 dark:text-white md:dark:hover:text-pink-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Contact</NavLink>
                 </li>
+                <li>
+                    <SearchModal />
+                </li>
             </ul>
             </div>
         </div>
         </nav>
-
-        </>
-    )
+      
+    </>
+  );
 }
