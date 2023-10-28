@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/mayformation/static/css/main.acba4228.css",
-    "main.js": "/mayformation/static/js/main.170c8c1b.js",
+    "main.css": "/mayformation/static/css/main.05f42b88.css",
+    "main.js": "/mayformation/static/js/main.2865468c.js",
     "static/media/logo-mayformations.svg": "/mayformation/static/media/logo-mayformations.a490e79feaad4caa1acde1cd9b045865.svg",
     "index.html": "/mayformation/index.html",
-    "main.acba4228.css.map": "/mayformation/static/css/main.acba4228.css.map",
-    "main.170c8c1b.js.map": "/mayformation/static/js/main.170c8c1b.js.map"
+    "main.05f42b88.css.map": "/mayformation/static/css/main.05f42b88.css.map",
+    "main.2865468c.js.map": "/mayformation/static/js/main.2865468c.js.map"
   },
   "entrypoints": [
-    "static/css/main.acba4228.css",
-    "static/js/main.170c8c1b.js"
+    "static/css/main.05f42b88.css",
+    "static/js/main.2865468c.js"
   ]
 }
