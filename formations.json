@@ -1,0 +1,16 @@
+[
+    {
+        "id":1, 
+        "titre": "Titre Professionnel - Auxiliaire en Crèche",
+        "duree": 6, 
+        "descriptif" : "L'auxiliaire de crèche, appelé également agent de crèche ou aide auxiliaire de puériculture, contribue au quotidien à l'éveil et au bon développement du jeune enfant au sein d'une structure d'accueil collectif. Il ou elle travaille dans une crèche, en halte garderies, ou dans des établissements d’accueil pour enfants en bas âges. Il répond aux besoins de l’enfant en s’assurant de sa santé et de son bien-être, et en participant à son éducation et son éveil. L’auxiliaire de crèche participe à l’accueil des enfants, puis veille tout au long de la journée à leur confort, bien-être et accompagnement à travers les soins d’hygiène, les activités et jeux d’éveil, et l’aide aux repas. C’est le parent de substitution de l’enfant lorsque les parents travaillent. Il fait partie d’une équipe composée de différents métiers de la petite enfance et s’intègre dans un projet pédagogique. La patience et la maîtrise de soi sont des qualités essentielles pour exercer ce métier. Découvrez le métier d’auxiliaire de crèche, ses évolutions professionnelles et les formations", 
+        "image" : "./src/images/pexels-naomi-shi-1001914.jpg"
+    }, 
+    {
+        "id" : 2, 
+        "titre" : "Titre Professionnel - Accompagnatrice Educatif Petite Enfance",
+        "duree" : 12, 
+        "descriptif": "accueillir les enfants et leurs parents. organiser et animer des activités d'éveil favorables au développement de l'enfant. garantir l'hygiène de chaque enfant (change) favoriser l'autonomie (apprentissage du pot, prise des repas...)",
+        "image" :"./src/images/pexels-tuấn-kiệt-jr-1549974.jpg"
+    }
+]
